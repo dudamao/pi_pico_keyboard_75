@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RPi_Pico")(type "Legacy")(uri "${KIPRJMOD}/symbols_lib/RPi_Pico.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/symbols_lib/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
